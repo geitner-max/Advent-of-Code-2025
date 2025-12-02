@@ -2,8 +2,6 @@
 __author__ = "Maximilian Geitner"
 __date__ = "01.12.2025"
 
-from numbers import Number
-
 if __name__ == '__main__':
 
     use_example = False
